@@ -1,15 +1,3 @@
-很多小伙伴问我怎么科(ke)学(xue)上(shang)网(wang)，为了方便讲解，写个教程贴出来。由于众所周知的原因，请低调传播，因为俺轻则被封号，重则可能被请喝茶。
-
-我使用的是ShadowsocksR客户端，是一个开源软件，它有Android、Windows、MacOS、ios等版本，非常全面。
-
-安装了软件，还需要一个ssr订阅地址，这个地址相当于是一个“账号”，配置了“账号”才能ke xue shang wang。
-
-## 客户端下载
-我已将ShadowsocksR的Windows、MacOS、Android客户端的安装包上传到GitHub上：
-```
-https://github.com/DeppWang/ShadowsocksR-download
-```
-关于ios请拖到文末。
 
 ## 使用教程
 ![image.png](https://upload-images.jianshu.io/upload_images/5863464-56be3dbc66dc0c36.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -100,6 +88,8 @@ http://linktoworld.xyz/v2ray-lin.html
 
 加入ShadowsocksR的Telegram聊天群(`https://telegram.me/ssrchat`)，获取最新相关信息，需要先注册Telegram账号(`https://web.telegram.org/#/login`)。
 
-因为使用订阅地址的人数较多，到月中的时候每月100G流量就已耗尽。现推荐一个免费获取配置文件的方式。需要翻墙后，打开https://free-ss.site/，点击网页右侧二维码小图标，手机中扫一扫复制URL，在手机APP中使用"从剪贴板导入"方式添加。如果"检查网络连接"失败，换二维码重试。在Windows或MacOS中右键小飞机，选择"从二维码扫描"。Mac上没测试，如失败，Google
+## 特别提醒
+
+因为使用订阅地址的人数较多，到月中的时候每月100G流量就已耗尽。现推荐一个免费获取配置文件的方式。需要翻墙后，打开https://free-ss.site/， 点击网页右侧二维码小图标，手机中扫一扫复制URL，在手机APP中使用"从剪贴板导入"方式添加。如果"检查网络连接"失败，换二维码重试。在Windows或MacOS中右键小飞机，选择"从二维码扫描"。Mac上没测试，如失败，Google
 
 所以强烈建议在https://free-ss.site/中找个免费的配置文件科学上网。否则每个月100G流量耗尽后，所有人都不能科学上网了
