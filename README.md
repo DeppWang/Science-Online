@@ -4,7 +4,7 @@
 
 ![image.png](https://upload-images.jianshu.io/upload_images/5863464-3b4e25faf8e6184a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-你可以暂时先不用购买“账号”，跟着下面教程使用我的(https://conn.bz/s/mTrnMSeWVQ)体验一下了再做决定。
+你可以暂时先不用购买“账号”，跟着下面教程使用我的(`https://conn.bz/s/mTrnMSeWVQ`)体验一下了再做决定。
 ## 安装[Windows客户端](https://raw.githubusercontent.com/deppwang/ShadowsocksR-download/master/netboostapp.zip)
 ![image.png](https://upload-images.jianshu.io/upload_images/5863464-7f814745c31c3383.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
