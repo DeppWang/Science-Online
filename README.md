@@ -6,7 +6,8 @@
 
 你可以暂时先不用购买“账号”，跟着下面教程使用我的(`https://conn.bz/s/mTrnMSeWVQ`)体验一下了再做决定。
 ## 安装[Windows客户端](https://raw.githubusercontent.com/deppwang/ShadowsocksR-download/master/netboostapp.zip)
-![image.png](https://upload-images.jianshu.io/upload_images/5863464-7f814745c31c3383.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/5863464-f32fc7ff5c49ad42.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 我已经将我购买的ssr订阅地址封装在`netboostapp.zip`中，**解压打开客户端就可直接使用**。
 * 双击打开`ShadowsocksR-dotnet4.0.exe`，任务栏会出现一个绿色的小飞机，测试是否能打开[谷歌](www.google.com)。
@@ -33,11 +34,13 @@
 * [官方教程](https://netboost.co/docs/ios/shadowrocket.html)
 
 ## 结语
-此订阅账号使用人数众多，每月100G流量很快就耗尽了，推荐一个免费通过二维码的方式科学上网
+此订阅账号使用人数众多，每月100G流量很快就耗尽了，推荐一个免费通过二维码的方式科学上网：
 * 需要先翻墙后，打开[free-ss](https://free-ss.site/)，点击IP右侧对应二维码小图标打开二维码；
-* 手机中扫一扫复制URL，在APP中使用"从剪贴板导入"方式添加。如果"检查网络连接"失败，换二维码重试；
-* 在Windows或MacOS中右键小飞机，选择"从二维码扫描"。
+* 在Windows或MacOS中右键小飞机，选择"从二维码扫描"；
+* Android用支付宝扫描复制URL，在APP中使用"从剪贴板导入"方式添加；
+* iOS直接APP左上角扫一扫扫描；
+* 如果没有成功翻墙，换二维码重试。
 
-此方式虽然免费，但是比较麻烦，建议还是通过[NetBoost](https://relink.bid/r/bNKx9pm1hn)购买，小钱起大用。
+此方式虽然免费，但是比较麻烦（不定时失效），建议还是通过[NetBoost](https://relink.bid/r/bNKx9pm1hn)购买，小钱中大用。
 
 小伙伴成功翻墙了吗，欢迎点Star哦！
