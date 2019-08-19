@@ -11,7 +11,8 @@
 
 我已经将我购买的 ssr 订阅地址封装在 `netboostapp.zip` 中，**解压打开客户端就可直接使用**。
 * 双击打开 `ShadowsocksR-dotnet4.0.exe`，任务栏会出现一个绿色的小飞机，右键小飞机，选择「不限流量」
-![WeChat Image_20190819101853.png](https://i.loli.net/2019/08/19/TQDNEjG2Ld4FJA5.png)
+
+![windows.png](https://i.loli.net/2019/08/19/a2SOvk3YAqJGmUj.png)
 * 测试是否能打开 [谷歌](www.google.com)。
 * [官方安装教程](https://netboost.co/docs/windows/shadowsocksr.html)
 
@@ -45,6 +46,6 @@
 * iOS 直接 APP 左上角扫一扫扫描；
 * 如果没有成功翻墙，换二维码重试。
 
-此方式虽然免费，但是比较麻烦（不定时失效），建议还是通过 [NetBoost](https://relink.bid/r/bNKx9pm1hn)购买，小钱中大用。
+此方式虽然免费，但是比较麻烦（不定时失效），建议还是通过 [NetBoost](https://relink.bid/r/bNKx9pm1hn) 购买，小钱中大用。
 
 小伙伴成功翻墙了吗，欢迎点 Star 哦！
