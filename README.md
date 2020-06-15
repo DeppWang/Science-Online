@@ -17,32 +17,31 @@
 <img src="https://deppwang.oss-cn-beijing.aliyuncs.com/blog/2020-06-15-054357.png" alt="image-20200615134356702" style="zoom: 50%;" />
 
 你可以暂时先不用购买「账号」，跟着下面教程使用我的（**`https://conn.bz/s/mTrnMSeWVQ`**）体验一下了再做决定。
-## Windows 客户端 [ShadowsocksR](https://raw.githubusercontent.com/deppwang/install%20package/ShadowsocksR-download/master/netboostapp.zip)
+## Windows 客户端 [ShadowsocksR](https://raw.githubusercontent.com/DeppWang/Science-Online/blob/master/install-package/netboostapp.zip)
 
 <img src="https://upload-images.jianshu.io/upload_images/5863464-f32fc7ff5c49ad42.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" style="zoom:67%;" />
 
-我已经将我购买的 ssr 订阅地址封装在 `netboostapp.zip` 中，**解压打开客户端就可直接使用**。
-* 双击打开 `ShadowsocksR-dotnet4.0.exe`，任务栏会出现一个绿色的小飞机，右键小飞机，选择「不限流量」
-
-![](https://i.loli.net/2019/08/19/a2SOvk3YAqJGmUj.png)
+我已经将我购买的 ssr 订阅地址封装在 `netboostapp.zip` 中，**解压打开客户端即可直接使用**。
 * 测试是否能打开 [谷歌](www.google.com)
-* [详细安装教程](https://netboost.co/docs/windows/shadowsocksr.html)
+* [详细配置教程](https://netboost.co/docs/windows/shadowsocksr.html)
 
 ## macOS 客户端 [V2rayU](https://github.com/yanue/V2rayU)
 
 ![img](https://deppwang.oss-cn-beijing.aliyuncs.com/blog/2020-06-15-061144.png)
 
+- 配置自行 Google
+
 ## Andriod 客户端 [Kitsunebi](https://github.com/eycorsican/kitsunebi-android)
 <p><img src="https://deppwang.oss-cn-beijing.aliyuncs.com/blog/2020-06-15-060912.jpg" style="zoom: 33%;" /></p>
 
 
-* [详细安装教程](https://netboost.co/docs/android/kitsunebi.html)
+* [详细配置教程](https://netboost.co/docs/android/kitsunebi.html)
 
 ## iOS 客户端 Shadowrocket
 <p><img src="https://deppwang.oss-cn-beijing.aliyuncs.com/blog/2020-06-15-061339.png" alt="img" style="zoom:67%;" /></p>
 
 * Shadowrocket 收费，如果购买 [NetBoost](https://relink.bid/r/OHKXKxBDEh)，NetBoost 会提供共享账号下载
-* [详细安装教程](https://netboost.co/docs/ios/shadowrocket.html)
+* [详细配置教程](https://netboost.co/docs/ios/shadowrocket.html)
 
  <!--Apple ID: `red at sscloud.co`，密码: `JzznjdGf6frOcA5WgkPb` 登陆 Apple Store，搜索安装 Shadowrocket（安装完成后，请切换为自己 Apple ID）。-->
 
