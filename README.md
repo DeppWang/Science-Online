@@ -2,7 +2,7 @@
 
 <!------->
 
-> 下面这种方式是入门的穿墙方式，自建请参考[陈浩教程](https://github.com/haoel/haoel.github.io)
+> 下面这种方式是入门的穿墙方式，自建请参考[耗子叔教程](https://github.com/haoel/haoel.github.io)
 
 很多小伙伴问我怎么科学上网，为了方便讲解，写个教程贴出来。
 
@@ -17,7 +17,7 @@
 <img src="https://deppwang.oss-cn-beijing.aliyuncs.com/blog/2020-06-15-054357.png" alt="image-20200615134356702" style="zoom: 50%;" />
 
 你可以暂时先不用购买「账号」，跟着下面教程使用我的（**`https://conn.bz/s/mTrnMSeWVQ`**）体验一下了再做决定。
-## Windows 客户端 [ShadowsocksR](https://raw.githubusercontent.com/DeppWang/Science-Online/blob/master/install-package/netboostapp.zip)
+## Windows 客户端 [ShadowsocksR](https://github.com/DeppWang/Science-Online/raw/master/install-package/netboostapp.zip)
 
 <img src="https://upload-images.jianshu.io/upload_images/5863464-f32fc7ff5c49ad42.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" style="zoom:67%;" />
 
