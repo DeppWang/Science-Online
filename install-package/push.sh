@@ -1,5 +1,5 @@
 #!/bin/bash
-git add .
+git aa
 git st
 current="`date +'%Y-%m-%d %H:%M:%S'`"
 msg="Updated: $current"
