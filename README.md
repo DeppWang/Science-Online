@@ -14,7 +14,7 @@
 
 简单的来说，科学上网需要一个软件 + 一个「账号」。
 * 软件：各个平台的客户端
-* 「账号」：即 ssr 订阅地址。可以在 [NetBoost](https://relink.bid/r/OHKXKxBDEh) 购买，1 个人使用的话，建议购买 $19 一年的套餐，每月流量限额 100G（够用了），可同时在线 3 个 ip。
+* 「账号」：即 ssr 订阅地址。可以在 [Net4Boost](https://relink.bid/r/OHKXKxBDEh) 购买，1 个人使用的话，建议购买 $19 一年的套餐，每月流量限额 100G（够用了），可同时在线 3 个 ip。
 
 <img src="https://deppwang.oss-cn-beijing.aliyuncs.com/blog/2020-06-15-054357.png" alt="image-20200615134356702" style="zoom: 50%;" />
 
@@ -46,7 +46,7 @@
 <p><img src="https://deppwang.oss-cn-beijing.aliyuncs.com/blog/2020-06-15-061339.png" alt="img" style="zoom:67%;" /></p>
 
 * 订阅地址：https://conn.bz/shadowrocket?token=mTrnMSeWVQ
-* Shadowrocket 收费，如果在 [NetBoost](https://relink.bid/r/OHKXKxBDEh) 账号，NetBoost 会提供共享账号下载
+* Shadowrocket 收费，如果在 NetBoost 购买账号，NetBoost 会提供共享账号下载
 * [详细配置教程](https://netboost.co/docs/ios/shadowrocket.html)
 
  <!--Apple ID: `red at sscloud.co`，密码: `JzznjdGf6frOcA5WgkPb` 登陆 Apple Store，搜索安装 Shadowrocket（安装完成后，请切换为自己 Apple ID）。-->
