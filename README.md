@@ -17,7 +17,7 @@
 <img src="https://deppwang.oss-cn-beijing.aliyuncs.com/blog/2020-06-15-054357.png" alt="image-20200615134356702" style="zoom: 50%;" />
 
 你可以暂时先不用购买「账号」，跟着下面教程使用我的（**`https://conn.bz/s/mTrnMSeWVQ`**）体验一下了再做决定。
-## [Windows 客户端](https://raw.githubusercontent.com/deppwang/ShadowsocksR-download/master/netboostapp.zip)
+## Windows 客户端 [ShadowsocksR](https://raw.githubusercontent.com/deppwang/install%20package/ShadowsocksR-download/master/netboostapp.zip)
 
 <img src="https://upload-images.jianshu.io/upload_images/5863464-f32fc7ff5c49ad42.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" style="zoom:67%;" />
 
@@ -33,13 +33,13 @@
 ![img](https://deppwang.oss-cn-beijing.aliyuncs.com/blog/2020-06-15-061144.png)
 
 ## Andriod 客户端 [Kitsunebi](https://github.com/eycorsican/kitsunebi-android)
-<img src="https://deppwang.oss-cn-beijing.aliyuncs.com/blog/2020-06-15-060912.jpg" style="zoom: 33%;" />
+<p><img src="https://deppwang.oss-cn-beijing.aliyuncs.com/blog/2020-06-15-060912.jpg" style="zoom: 33%;" /></p>
 
 
 * [详细安装教程](https://netboost.co/docs/android/kitsunebi.html)
 
 ## iOS 客户端 Shadowrocket
-<img src="https://deppwang.oss-cn-beijing.aliyuncs.com/blog/2020-06-15-061339.png" alt="img" style="zoom:67%;" />
+<p><img src="https://deppwang.oss-cn-beijing.aliyuncs.com/blog/2020-06-15-061339.png" alt="img" style="zoom:67%;" /></p>
 
 * Shadowrocket 收费，如果购买 [NetBoost](https://relink.bid/r/OHKXKxBDEh)，NetBoost 会提供共享账号下载
 * [详细安装教程](https://netboost.co/docs/ios/shadowrocket.html)
