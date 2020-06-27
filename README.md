@@ -2,7 +2,7 @@
 
 <!------->
 
-> 下面这种方式是入门的穿墙方式，自建请参考[陈皓教程](https://github.com/haoel/haoel.github.io)
+> 下面这种方式是入门的穿墙方式，自建请参考[耗子叔教程](https://github.com/haoel/haoel.github.io)
 
 <!--很多小伙伴问我怎么科学上网，为了方便讲解，写个教程贴出来。-->
 
@@ -12,11 +12,13 @@
 
 <!--穿墙-->
 
+有时候，我们需要一个突破点。我知道很多人想穿墙，却苦于没有门路。所以专门买了一个账号，让小伙伴们体会体会墙外世界。
+
 简单的来说，科学上网需要一个软件 + 一个「账号」。
 * 软件：各个平台的客户端
-* 「账号」：即 ssr 订阅地址。可以在 [Net4Boost](https://relink.bid/r/OHKXKxBDEh) 购买，1 个人使用的话，建议购买 $19 一年的套餐，每月流量限额 100G（够用了），可同时在线 3 个 ip。
+* 「账号」：即 ssr 订阅地址。可以在 [NetBoost](https://relink.bid/r/OHKXKxBDEh) 购买，1 个人使用的话，建议购买 $19 一年的套餐，每月流量 100G（够用了）。
 
-<img src="https://deppwang.oss-cn-beijing.aliyuncs.com/blog/2020-06-15-054357.png" alt="image-20200615134356702" style="zoom: 50%;" />
+<img src="https://deppwang.oss-cn-beijing.aliyuncs.com/blog/2020-06-27-033516.png" alt="image-20200627113516316" style="zoom:50%;" />
 
 你可以暂时先不用购买「账号」，跟着下面教程使用我的体验一下了再做决定。
 ## Windows 客户端 [ShadowsocksR](https://github.com/DeppWang/Science-Online/raw/master/install-package/netboostapp.zip)
@@ -57,9 +59,9 @@
 
 ## 结语
 
-此订阅账号使用人数众多，每月 100G 流量很快就耗尽了，推荐一个免费通过二维码的方式科学上网：
+此订阅账号使用人数众多，每天限额 10G 流量很快就耗尽了，推荐一个免费通过二维码的方式科学上网：
 * 需要先穿墙后，打开 [free-ss](https://free-ss.site/)（主站）。如果不能穿墙，设置[直连](https://free-ss.site/v/direct_access.png) 或使用国外邮箱（如 gmail）发送邮件到 `ss at rohankdd.com` 获取镜像站（**注意，一定要国外邮箱！**）
-* 点击 IP 右侧对应二维码小图标打开二维码，一个二维码对应一个服务器账号
+* 点击 IP 右侧对应「二维码小图标」打开二维码，一个二维码对应一个服务器账号
 * 使用扫描二维码的方式使用
 * 如果没有成功穿墙，换二维码重试
 
