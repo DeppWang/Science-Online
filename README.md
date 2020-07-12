@@ -1,16 +1,8 @@
-<!--由于微信不允许外部链接，你需要点击页尾左下角的「阅读原文」，才能访问文中的链接。 -->
-
 > 下面这种方式是入门的穿墙方式，自建请参考[耗子叔教程](https://github.com/haoel/haoel.github.io)
 
-<!--很多小伙伴问我怎么科学上网，为了方便讲解，写个教程贴出来。-->
+<!--有时候，我们需要一个突破点。我知道很多小伙伴想穿墙，却苦于没有门路。所以额外买了一个账号，领小伙伴们入门。-->
 
-<!--有时候，我们需要一个突破点。我知道很多人想穿墙，却苦于没有方法，-->
-
-<!--墙的原理-->
-
-<!--穿墙-->
-
-有时候，我们需要一个突破点。我知道很多小伙伴想穿墙，却苦于没有门路。所以额外买了一个账号，领小伙伴们入门。
+很多小伙伴问我怎么科学上网，为了方便讲解，写个教程贴出来。
 
 简单的来说，科学上网需要一个软件 + 一个「账号」。
 * 软件：各个平台的客户端
@@ -24,8 +16,13 @@
 <img src="https://upload-images.jianshu.io/upload_images/5863464-f32fc7ff5c49ad42.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" style="zoom:67%;" />
 
 我已经将我购买的 ssr 订阅地址封装在 `netboostapp.zip` 中，**解压打开客户端即可直接使用**。
+
+* 双击打开 ShadowsocksR-dotnet**4.0**.exe，任务栏会出现一个绿色的小飞机，右键小飞机，选择「不限流量」
+
+![](https://deppwang.oss-cn-beijing.aliyuncs.com/blog/2020-07-12-034631.png)
+
+* 测试是否能打开 [谷歌](www.google.com)。如不能访问，可尝试更新「服务器订阅」
 * 订阅地址：https://conn.bz/s/mTrnMSeWVQ
-* 测试是否能打开 [谷歌](www.google.com)
 * [详细配置教程](https://netboost.co/docs/windows/shadowsocksr.html)
 
 ## macOS 客户端 [V2rayU](https://github.com/yanue/V2rayU)
