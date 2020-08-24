@@ -19,7 +19,7 @@
 
 ## macOS 
 
-- 客户端 [V2rayU](https://github.com/yanue/V2rayU)，[配置教程](https://hijk.art/v2rayu-config-tutorial/)
+- 客户端 [V2rayU](https://github.com/yanue/V2rayU/releases)，[配置教程](https://hijk.art/v2rayu-config-tutorial/)
 
 ![img](https://deppwang.oss-cn-beijing.aliyuncs.com/blog/2020-06-15-061144.png)
 
@@ -27,7 +27,7 @@
 
 ## Andriod
 
-- 客户端 [Kitsunebi](https://github.com/eycorsican/kitsunebi-android)，[配置教程](https://hijk.art/kitsunebi-android-config-tutorial/)
+- 客户端 [Kitsunebi](https://github.com/eycorsican/kitsunebi-android/releases)，[配置教程](https://hijk.art/kitsunebi-android-config-tutorial/)
 
 <p><img src="https://deppwang.oss-cn-beijing.aliyuncs.com/blog/2020-06-15-060912.jpg" style="zoom: 33%;" /></p>
 
@@ -49,7 +49,7 @@
 
 - https://tlanyan.me/v2ray-clients-download/
 
-## trojan 其他客户端
+## trojan 客户端
 
 - https://tlanyan.me/v2ray-clients-download/
 
