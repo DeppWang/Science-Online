@@ -1,4 +1,4 @@
-> 下面这种方式是入门的穿墙方式，自建请参考[耗子叔教程](https://github.com/haoel/haoel.github.io)
+> 下面这种方式是入门的穿墙方式，自建请参考[耗子叔科学上网教程](https://github.com/haoel/haoel.github.io)
 
 <!--有时候，我们需要一个突破点。我知道很多小伙伴想穿墙，却苦于没有门路。所以额外买了一个账号，领小伙伴们入门。-->
 
@@ -11,42 +11,47 @@
 <img src="https://deppwang.oss-cn-beijing.aliyuncs.com/blog/2020-06-27-033516.png" alt="image-20200627113516316" style="zoom:50%;" />
 
 你可以暂时先不用购买「账号」，跟着下面教程使用我的体验一下了再做决定。
-## Windows 客户端 [ShadowsocksR](https://github.com/DeppWang/Science-Online/raw/master/install-package/netboostapp.zip)
+## Windows 
 
-<img src="https://upload-images.jianshu.io/upload_images/5863464-f32fc7ff5c49ad42.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" style="zoom:67%;" />
+- 客户端 [ShadowsocksR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)，[配置教程](https://hijk.art/shadowsocksr-ssr-windows-client-config-tutorial/)
 
-我已经将我购买的 ssr 订阅地址封装在 `netboostapp.zip` 中，**解压打开客户端即可直接使用**。
+* 订阅地址：https://conn.bz/ssr?token=mTrnMSeWVQ
 
-* 双击打开 ShadowsocksR-dotnet**4.0**.exe，任务栏会出现一个绿色的小飞机，右键小飞机，选择「不限流量」
+## macOS 
 
-![](https://deppwang.oss-cn-beijing.aliyuncs.com/blog/2020-07-12-034631.png)
-
-* 测试是否能打开 [谷歌](www.google.com)。如不能访问，可尝试更新「服务器订阅」
-* 订阅地址：https://conn.bz/s/mTrnMSeWVQ
-* [详细配置教程](https://netboost.co/docs/windows/shadowsocksr.html)
-
-## macOS 客户端 [V2rayU](https://github.com/yanue/V2rayU)
+- 客户端 [V2rayU](https://github.com/yanue/V2rayU)，[配置教程](https://hijk.art/v2rayu-config-tutorial/)
 
 ![img](https://deppwang.oss-cn-beijing.aliyuncs.com/blog/2020-06-15-061144.png)
 
 - 订阅地址：https://conn.bz/v2rayu?token=mTrnMSeWVQ
-- 配置自行 Google
 
-## Andriod 客户端 [Kitsunebi](https://github.com/eycorsican/kitsunebi-android)
+## Andriod
+
+- 客户端 [Kitsunebi](https://github.com/eycorsican/kitsunebi-android)，[配置教程](https://hijk.art/kitsunebi-android-config-tutorial/)
+
 <p><img src="https://deppwang.oss-cn-beijing.aliyuncs.com/blog/2020-06-15-060912.jpg" style="zoom: 33%;" /></p>
 
 
 * 订阅地址：https://conn.bz/kitsunebi?token=mTrnMSeWVQ
-* [详细配置教程](https://netboost.co/docs/android/kitsunebi.html)
 
-## iOS 客户端 Shadowrocket
+## iOS
+
+- 客户端 [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)，[配置教程](https://netboost.co/docs/ios/shadowrocket.html)
+
 <p><img src="https://deppwang.oss-cn-beijing.aliyuncs.com/blog/2020-06-15-061339.png" alt="img" style="zoom:67%;" /></p>
 
 * 订阅地址：https://conn.bz/shadowrocket?token=mTrnMSeWVQ
 * Shadowrocket 收费，如果在 NetBoost 购买账号，NetBoost 会提供共享账号下载
-* [详细配置教程](https://netboost.co/docs/ios/shadowrocket.html)
 
  <!--Apple ID: `red at sscloud.co`，密码: `JzznjdGf6frOcA5WgkPb` 登陆 Apple Store，搜索安装 Shadowrocket（安装完成后，请切换为自己 Apple ID）。-->
+
+## V2Ray 其他客户端
+
+- https://tlanyan.me/v2ray-clients-download/
+
+## trojan 其他客户端
+
+- https://tlanyan.me/v2ray-clients-download/
 
 ## 穿墙的原理
 
