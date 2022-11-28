@@ -37,7 +37,7 @@
 
 | iOS / iPad                                                   | Android                                                      | Windows                                                      | macOS                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 客户端 [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)，[配置教程](https://wikibos.com/index.php/kb/shadowrocket/) | [宝贝云](https://www.lanzoux.com/iBYj00ah66sd) Android 客户端，可直接下载安装试用 | [宝贝云](https://www.lanzoux.com/iuh2D0ah65ed) Windows 客户端，可直接下载安装试用 | 客户端 [ClashX](https://github.com/yichengchen/clashX/releases)，[配置教程](https://v2xtls.org/clashx%E9%85%8D%E7%BD%AEv2ray%E6%95%99%E7%A8%8B/) |
+| 客户端 [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)，[配置教程](https://wikibos.com/index.php/kb/shadowrocket/) | 宝贝云 [Android 客户端](https://www.lanzoux.com/iBYj00ah66sd)，可直接下载安装试用 | 宝贝云 [Windows 客户端](https://www.lanzoux.com/iuh2D0ah65ed)，可直接下载安装试用 | 客户端 [ClashX](https://github.com/yichengchen/clashX/releases)，[配置教程](https://v2xtls.org/clashx%E9%85%8D%E7%BD%AEv2ray%E6%95%99%E7%A8%8B/) |
 | Shadowrocket 收费，如果在宝贝云购买账号，宝贝云会提供共享账号下载 |                                                              |                                                              |                                                              |
 
 ![image-20221129000052002](https://deppwang.oss-cn-beijing.aliyuncs.com/blog/20221129000052.png)
