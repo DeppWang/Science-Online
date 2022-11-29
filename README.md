@@ -24,7 +24,7 @@
 
 可以在通过[我的邀请链接](https://v3ssy.xyz/#/register?code=jTQRsoYP)（不用翻墙），在宝贝云 VPN 购买。15 元套餐写的每月流量 1024G，我每个月没有用多少，也不知道是不是真的有这么多，建议不要买太久，谨防跑路。我[上个 VPN](http://netboost.co/)用了几年，以为不会跑路，结果还是跑路了。如果你不想购买，宝贝云提供试用，可以注册后试用，先获得穿墙能力
 
-<img src="https://deppwang.oss-cn-beijing.aliyuncs.com/blog/20221128200724.png" alt="image-20221128200724030" style="zoom: 33%;" />
+![](https://deppwang.oss-cn-beijing.aliyuncs.com/blog/20221128200724.png)
 
 宝贝云的 2 个问题：
 
@@ -37,7 +37,7 @@
 
 一般购买机场订阅地址时，机场会提供使用文档，如下：
 
-![image-20221129000052002](https://deppwang.oss-cn-beijing.aliyuncs.com/blog/20221129000052.png)
+![](https://deppwang.oss-cn-beijing.aliyuncs.com/blog/20221129000052.png)
 
 宝贝云机场订阅地址各平台对应客户端：
 
