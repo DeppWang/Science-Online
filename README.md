@@ -23,7 +23,7 @@
 
 >aHR0cHM6Ly9zdWIxLnNtYWxsc3RyYXdiZXJyeS5jb20vYXBpL3YxL2NsaWVudC9zdWJzY3JpYmU/dG9rZW49M2QyYWE5NDk0YmJmMTJlMjZhOGY4MTRmOWFhMDg1Njg=
 
-使用这个订阅地址，可以让你先获取翻墙能力，后面你自己需要再通过机场购买自己的订阅地址。
+使用这个订阅地址，可以让你先获取翻墙能力，后面你自己需要再通过机场购买自己的订阅地址。这个订阅是买的[一元机场](https://xn--4gq62f52gdss.xyz/)，比较便宜，一年 12 元，是我的备用机场，不是很稳定，不能长期使用。
 
 我目前使用机场是 GLaDOS，还是比较稳定，它还有一个优势是可以签到免费延期，这是我的[注册邀请链接](https://glados.space/landing/GUQEI-1EH73-RDEVX-K6JNM)(邀请码：**GUQEI-1EH73-RDEVX-K6JNM**)，你如果通过我的邀请链接注册我们都可以获得一点奖励。GLaDOS 提供免费试用，我买的每月 26 元 200 G 的这个套餐，基本够用了，不建议买太久，机场都有跑路风险。
 
@@ -36,7 +36,7 @@
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 客户端下载 | [ClashX Pro](https://github.com/DeppWang/Science-Online/blob/master/clashx-pro.dmg)，[备用下载](https://clashxpro.org/clashx-pro-download/) | [Clash for Windows](https://github.com/DeppWang/Science-Online/blob/master/Clash.for.Windows.Setup.exe)，[备用下载](https://www.clashforwindows.net/clash-for-windows-download/) | [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) | [Clash for Android](https://github.com/DeppWang/Science-Online/blob/master/clash_for_android.apk) |
 | 配置教程   | [配置教程](https://v2xtls.org/clashx%E9%85%8D%E7%BD%AEv2ray%E6%95%99%E7%A8%8B/) | [配置教程](https://v2xtls.org/clash-for-windows%e9%85%8d%e7%bd%aev2ray%e6%95%99%e7%a8%8b/) | [配置教程](https://wikibos.com/index.php/kb/shadowrocket/)   | [配置教程](https://shadowrocket-app.gitbook.io/shadowrocket/android/clash) |
-|            |                                                              |                                                              | PS：Shadowrocket 收费，美区 AppleID 下载。                   |                                                              |
+|            |                                                              |                                                              | PS：Shadowrocket 收费，美区 AppleID 下载                 |                                                              |
 
 
 ## 四、其它免费翻墙的方式
